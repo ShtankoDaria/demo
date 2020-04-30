@@ -1,12 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "jobs": [
+    { "id": 1, "title": "QA Engineer" },
+    { "id": 2, "title": "Quality Analyst" },
+    { "id": 3, "title": "Data Analyst" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "great worker!", "postId": 1 },
+    { "id": 2, "body": "very good team player", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
